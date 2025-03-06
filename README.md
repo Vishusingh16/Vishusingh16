@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishusingh16&label=Profile%20views&color=0e75b6&style=flat" alt="vishusingh16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishusingh16" alt="vishusingh16" /></a> </p>
-<p align="left"> <a href="vaishnav-singh-portfolio.netlify.app"></a> </p>
+
 
 - 🔭 I’m currently working on **Cuberto**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Unity ,C#,SpringBoot, Golang**
 
-- 📫 How to reach me **vaishnavsingh162@gmail.com**
+- 📫 How to reach me **vaishnav-singh-portfolio.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
