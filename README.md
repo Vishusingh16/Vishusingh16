@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Unity ,C#,SpringBoot, Golang**
 
-- 📫 How to reach me **vaishnav-singh-portfolio.netlify.app**
+- 📫 How to reach me **vaishnavsingh162@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
